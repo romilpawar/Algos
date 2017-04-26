@@ -65,3 +65,4 @@ int main()
     search(text, pattern);
     return 0;
 }
+ 
